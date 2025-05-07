@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">HelloWorldApp</string>
-    <string name="second_activity_title">This is Second Activity</string>
-    <string name="enter_name_hint">Enter name</string>
-    <string name="submit">Submit</string>
-</resources>
