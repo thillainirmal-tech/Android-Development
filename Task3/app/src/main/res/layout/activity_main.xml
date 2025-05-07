@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <!-- Hello World Text -->
+    <TextView
+        android:id="@+id/textViewHello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Greet Button -->
+    <Button
+        android:id="@+id/buttonGreet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="64dp"
+        android:minHeight="48dp"
+        android:padding="16dp"
+        android:text="Click Here"
+        android:layout_marginTop="8dp" />
+
+    <!-- Open Second Activity Button -->
+    <Button
+        android:id="@+id/buttonOpenSecond"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="64dp"
+        android:minHeight="48dp"
+        android:padding="16dp"
+        android:text="Open Second Activity"
+        android:layout_marginTop="8dp" />
+
+    <!-- Open List Activity Button -->
+    <Button
+        android:id="@+id/buttonOpenList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="64dp"
+        android:minHeight="48dp"
+        android:padding="16dp"
+        android:text="Show List"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>

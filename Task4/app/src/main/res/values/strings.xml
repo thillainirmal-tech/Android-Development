@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FormActivity</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="phone_hint">Phone</string>
+    <string name="address_hint">Address</string>
+    <string name="submit_button">Submit</string>
+    <string name="toast_fill_all_fields">Please fill in all fields.</string>
+    <string name="toast_invalid_email">Invalid email address.</string>
+    <string name="toast_submitted">Form submitted with name: %1$s</string>
+    <string name="name_description">Enter your full name</string>
+    <string name="email_description">Enter your email address</string>
+    <string name="phone_description">Enter your phone number</string>
+    <string name="address_description">Enter your address</string>
+
+</resources>
